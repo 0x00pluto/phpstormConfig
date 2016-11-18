@@ -1,0 +1,44 @@
+<templateSet group="PHP">
+  <template name="fn" value="public function $NAME$()&#10;{&#10;    $data = [];&#10;    //class Error$CLASSNAME$$NAME$&#10;    &#10;    //code...&#10;    return RPCCommandResult::createSucc($data);&#10;}" description="function return" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="snakeCase(String)" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASSNAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="retCode" value="logicErrorCondition($Condition$ ,&#10;                $ErrorClassName$::$ErrorString$ ,&#10;                '$ErrorString$',&#10;                 $data);" description="logicErr" toReformat="true" toShortenFQNames="true">
+    <variable name="Condition" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ErrorClassName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ErrorString" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="getAttribute" value="public function get$PARAM$Attribute($value)&#10;{&#10;    return $value;&#10;}" description="function return" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAM" expression="snakeCase(String)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="setAttribute" value="public function set$PARAM$Attribute($value)&#10;{&#10;    $this-&gt;attributes['$PARAM$'] = $value;&#10;}" description="function return" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAM" expression="snakeCase(String)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="cmdSucc" value="$data = [];&#10;return RPCCommandResult::createSucc($data);" description="cmdSucc" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="checkResponse" value="self::assertTrue(is_array($data = responseHelper::getResponseArray($response)));&#10;self::assertArrayHasKey('list', $data);&#10;self::assertArrayHasKey('total', $data);" description="检测查询返回" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="checkResponseRpcResults" value="/**&#10; * @var $result RPCCommandResult&#10; */&#10;$result = $response;&#10;$data = $result-&gt;getRetData();&#10;self::assertArrayHasKey('count', $data);&#10;self::assertArrayHasKey('list', $data);" description="检测查询返回" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>

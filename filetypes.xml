@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="RPC代码生成数据校验格式.rm" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="rm" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="rtf" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
