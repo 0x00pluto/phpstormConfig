@@ -499,4 +499,38 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="t_tradeSubTypeRecharge" value="tradeSubTypeRecharge" description="充值交易子类型" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSON" value="false" />
+      <option name="CSS" value="false" />
+      <option name="Twig" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="SQL" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="PHP" value="false" />
+      <option name="HAML" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="t_tradeSubTypeConsume" value="tradeSubTypeConsume" description="消费交易子类型" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="false" />
+      <option name="XML" value="false" />
+      <option name="JSON" value="false" />
+      <option name="CSS" value="false" />
+      <option name="Twig" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="SQL" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="PHP" value="false" />
+      <option name="HAML" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
