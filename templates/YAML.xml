@@ -6,14 +6,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_md5_16" value="md5_16" description="md5_16" toReformat="false" toShortenFQNames="true">
@@ -23,14 +23,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_cellphone" value="cellphone" description="手机号" toReformat="false" toShortenFQNames="true">
@@ -40,14 +40,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_merchantNo" value="merchantNo" description="商户号" toReformat="false" toShortenFQNames="true">
@@ -57,14 +57,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_money" value="money" description="货币(元)" toReformat="false" toShortenFQNames="true">
@@ -74,14 +74,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_money_cent" value="money_cent" description="货币(分)" toReformat="false" toShortenFQNames="true">
@@ -91,14 +91,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_number_verify_code" value="number_verify_code" description="数字验证码" toReformat="false" toShortenFQNames="true">
@@ -108,14 +108,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_id_card" value="id_card" description="身份证" toReformat="false" toShortenFQNames="true">
@@ -125,14 +125,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="add_parameter" value="- { name: $NAME$,type: $TYPE$ ,comment: &quot;$COMMENT$&quot; }" description="增加参数" toReformat="false" toShortenFQNames="true">
@@ -145,14 +145,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_gender" value="gender" description="性别" toReformat="false" toShortenFQNames="true">
@@ -162,14 +162,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_memberId" value="memberId" description="会员ID" toReformat="false" toShortenFQNames="true">
@@ -179,14 +179,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="p_min" value=" min: $VALUE$," description="增加参数 min" toReformat="false" toShortenFQNames="true">
@@ -197,14 +197,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="p_max" value=" max: $VALUE$," description="增加参数 max" toReformat="false" toShortenFQNames="true">
@@ -215,14 +215,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="p_choice" value="choice: [$VAULE$]," description="增加参数-choice" toReformat="false" toShortenFQNames="true">
@@ -233,14 +233,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="p_require" value="require: true," description="增加参数-require" toReformat="false" toShortenFQNames="true">
@@ -250,14 +250,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="p_default" value="default: $VALUE$," description="增加参数-default" toReformat="false" toShortenFQNames="true">
@@ -268,14 +268,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="p_memberUserName" value="memberUserName" description="会员ID" toReformat="false" toShortenFQNames="true">
@@ -285,14 +285,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="add_page" value="- { name: pageIndex, type: int,  min: 1, default: 1 ,comment: &quot;分页号&quot; }&#10;- { name: pageCount, type: int,  min: 1, max: 100, default: 1 ,comment: &quot;页面显示数量&quot; }" description="增加参数 分页" toReformat="false" toShortenFQNames="true">
@@ -302,14 +302,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_cardBin" value="cardBin" description="cardBin" toReformat="false" toShortenFQNames="true">
@@ -319,14 +319,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_bigint" value="bigint" description="bigint" toReformat="false" toShortenFQNames="true">
@@ -336,14 +336,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_datetime" value="datetime" description="datetime" toReformat="false" toShortenFQNames="true">
@@ -353,14 +353,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_json" value="json" description="json" toReformat="false" toShortenFQNames="true">
@@ -370,14 +370,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_string" value="string" description="string" toReformat="false" toShortenFQNames="true">
@@ -387,14 +387,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_int" value="int" description="int" toReformat="false" toShortenFQNames="true">
@@ -404,14 +404,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_status" value="status" description="通用状态监测" toReformat="false" toShortenFQNames="true">
@@ -421,14 +421,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_prePaidCardNo" value="prePaidCardNo" description="预付卡卡号" toReformat="false" toShortenFQNames="true">
@@ -438,14 +438,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_ratio" value="ratio" description="万分比" toReformat="false" toShortenFQNames="true">
@@ -455,14 +455,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_bankCardNo" value="bankCardNo" description="bankCardNo" toReformat="false" toShortenFQNames="true">
@@ -472,14 +472,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_netPayType" value="netPayType" description="网络支付类型" toReformat="false" toShortenFQNames="true">
@@ -489,14 +489,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_tradeSubTypeRecharge" value="tradeSubTypeRecharge" description="充值交易子类型" toReformat="false" toShortenFQNames="true">
@@ -506,14 +506,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_tradeSubTypeConsume" value="tradeSubTypeConsume" description="消费交易子类型" toReformat="false" toShortenFQNames="true">
@@ -523,14 +523,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_tradeFlowOfPayMini" value="tradeFlowOfPayMini" description="交易流水号" toReformat="false" toShortenFQNames="true">
@@ -540,14 +540,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_orderMakeUpType" value="orderMakeUpType" description="订单撤销类型" toReformat="false" toShortenFQNames="true">
@@ -557,14 +557,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_stringNumber" value="stringNumber" description="数字字符串" toReformat="false" toShortenFQNames="true">
@@ -574,14 +574,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
   <template name="t_posMachineTerminalId" value="posMachineTerminalId" description="POS机终端号" toReformat="false" toShortenFQNames="true">
@@ -591,14 +591,14 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="PHP" value="false" />
       <option name="XML" value="false" />
       <option name="Twig" value="false" />
       <option name="JSON" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
     </context>
   </template>
 </templateSet>
