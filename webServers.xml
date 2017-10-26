@@ -9,6 +9,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="ede63583-8a89-484c-b76e-56fe78279689" name="minipay-zhongbai-sdk" url="http://101.200.153.159">
+        <fileTransfer host="101.200.153.159" port="21" rootFolder="/site_zhongbai_sdk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveCommand="PWD" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
