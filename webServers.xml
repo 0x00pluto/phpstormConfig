@@ -17,6 +17,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="01a11822-107b-486f-ad89-61d2d6004b44" name="minipay-sdk-merchant-platform" url="http://172.16.1.119">
+        <fileTransfer host="172.16.1.119" port="21" rootFolder="/www/site_sdk_minipay_merchant_platform">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveCommand="PWD" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
