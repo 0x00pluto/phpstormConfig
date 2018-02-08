@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="551393a6-e69b-4ac9-be1a-8e1b08c20183" name="bala-service-example" url="http://47.93.60.229">
+        <fileTransfer host="47.93.60.229" port="21" rootFolder="/www/services/sources/service-example">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="30fb2c9e-fa36-4bf6-98e9-86b7284d7e30" name="minipay-console-service" url="http://101.200.153.159">
         <fileTransfer host="101.200.153.159" port="21" rootFolder="/sdk-minipay-console-services">
           <advancedOptions>
