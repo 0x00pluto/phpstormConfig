@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="ae5f102b-5919-4c19-8f7a-be24c5ca3dbc" name="bala-service" url="http://47.93.60.229">
+        <fileTransfer host="47.93.60.229" port="21" rootFolder="/www">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="551393a6-e69b-4ac9-be1a-8e1b08c20183" name="bala-service-example" url="http://47.93.60.229">
         <fileTransfer host="47.93.60.229" port="21" rootFolder="/www/services/sources/service-example">
           <advancedOptions>
