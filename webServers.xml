@@ -33,14 +33,6 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="b4358232-78d7-4526-9471-66c9bd44dc46" name="bala-service-member" url="http://47.93.60.229">
-        <fileTransfer host="47.93.60.229" port="21" rootFolder="/www/services/sources/service-member">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
